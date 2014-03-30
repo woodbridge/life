@@ -1,4 +1,1 @@
-life
-====
-
-a little python + pygame implementation of Life
+<img src='http://justinwoodbridge.com/demo.gif' />
