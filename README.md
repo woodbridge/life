@@ -1,6 +1,8 @@
+A little implementation of Life with python and pyglet. May be useful to if you're trying to figure out how to actualy apply pyglet's API.
+
 <img src='http://justinwoodbridge.com/demo.gif' />
 
-### Controls
+## Controls
 
 - **enter** - start/stop the simulation
 - **r** - generate a new seed
