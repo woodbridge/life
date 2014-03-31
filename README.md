@@ -13,3 +13,5 @@ Click on individual squares while paused to manually tweak the generation.
 
 - `pip install pyglet`
 - `python game.py`
+
+*Please ignore my embarassing usage of global variables to manage state...*
